@@ -1,0 +1,1 @@
+Execute o index.html com o internet explorer
